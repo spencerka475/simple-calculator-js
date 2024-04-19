@@ -21,3 +21,8 @@ Subtract = ${stotal}
 Divide = ${dtotal}`;
 //output 
 alert(msg);
+
+console.log(mtotal)
+console.log(atotal)
+console.log(stotal)
+console.log(dtotal)
